@@ -12,7 +12,7 @@ describe('generateMessage', () => {
   });
 });
 
-describe('generateLocationMessage', () =>{
+describe('generateLocationMessage', () => {
   it('should generate correct location object', () => {
     let from = 'TestLocate';
     let latitude = 123;
